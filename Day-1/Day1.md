@@ -1,4 +1,4 @@
-# Day -1 
+# DEMO DAY 
 
 Currently I'm learning javascript. 
 This is a To- do list, by using it you can easily list up all the tasks that you need to do and keep a track of your day to day tasks. 
